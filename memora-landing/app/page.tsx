@@ -219,7 +219,7 @@ export default function MemoraLanding() {
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Memora giúp bạn lưu lại những khoảnh khắc đẹp nhất cùng bạn bè,
               người thân – tất cả chỉ trong một ứng dụng dễ thương với giao diện
-              pastel SpongeBob.
+              dễ sử dụng!
             </p>
             <Button
               size="lg"
